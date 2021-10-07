@@ -17,5 +17,5 @@ Proof:
     The prime factorization of 2ⁿ can only contain the number 2.  
     ∴  
     Any integer 2ⁿ is only divisible by numbers that  
-    can be expressed in the format **2^k** where k≥0.  
+    can be expressed in the format 2^k where k≥0.  
 </pre>
