@@ -5,8 +5,9 @@ Does there exist a power of 2 that is divisible by X?
 
 
 ###### Informal proof:
+<pre>
 Given:  
-    2ⁿ is equal to 2 multiplied by itself n times.  
+   2ⁿ is equal to 2 multiplied by itself n times.  
         2³ = (2 x 2 x 2)  
     Every non-prime number can be broken down into factors.  
         24 --> 2 x 2 x 2 x 3  
@@ -17,3 +18,4 @@ Proof:
     ∴  
     Any integer 2ⁿ is only divisible by numbers that  
     can be expressed in the format **2^k** where k≥0.  
+</pre>
